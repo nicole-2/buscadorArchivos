@@ -1,0 +1,9 @@
+C:\Users\Brayan Carrasco\AppData\Local\Temporary Projects\Buscador de Archivos\bin\Debug\Buscador de Archivos.exe
+C:\Users\Brayan Carrasco\AppData\Local\Temporary Projects\Buscador de Archivos\bin\Debug\Buscador de Archivos.pdb
+C:\Users\Brayan Carrasco\AppData\Local\Temporary Projects\Buscador de Archivos\obj\x86\Debug\Buscador_de_Archivos.Form1.resources
+C:\Users\Brayan Carrasco\AppData\Local\Temporary Projects\Buscador de Archivos\obj\x86\Debug\Buscador_de_Archivos.Properties.Resources.resources
+C:\Users\Brayan Carrasco\AppData\Local\Temporary Projects\Buscador de Archivos\obj\x86\Debug\Buscador de Archivos.csproj.GenerateResource.Cache
+C:\Users\Brayan Carrasco\AppData\Local\Temporary Projects\Buscador de Archivos\obj\x86\Debug\Buscador de Archivos.exe
+C:\Users\Brayan Carrasco\AppData\Local\Temporary Projects\Buscador de Archivos\obj\x86\Debug\Buscador de Archivos.pdb
+C:\Users\Brayan Carrasco\AppData\Local\Temporary Projects\Buscador de Archivos\obj\x86\Debug\Interop.VBA.dll
+C:\Users\Brayan Carrasco\AppData\Local\Temporary Projects\Buscador de Archivos\obj\x86\Debug\Buscador de Archivos.csproj.ResolveComReference.cache
